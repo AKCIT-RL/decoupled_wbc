@@ -18,7 +18,7 @@ class BodyIKSolverSettings:
         }
         self.posture_weight = {
             "waist_pitch": 10.0,
-            "waist_yaw": 2.0,
+            "waist_yaw": 15.0,
             "waist_roll": 10.0,
             "shoulder_pitch": 4.0,
             "shoulder_roll": 3.0,
